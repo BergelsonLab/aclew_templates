@@ -100,6 +100,18 @@
             </prefGroup>
         </prefGroup>
     </prefGroup>
+    <prefList key="SegmentationViewer.HiddenTiers">
+        <String>code</String>
+        <String>context</String>
+        <String>code_num</String>
+        <String>on_off</String>
+    </prefList>
+    <prefList key="SegmentationViewer.HiddenItems">
+        <String>code</String>
+        <String>context</String>
+        <String>code_num</String>
+        <String>on_off</String>
+    </prefList>
     <prefGroup key="TierColors">
         <pref key="CHI">
             <Object class="java.awt.Color">160,0,0</Object>
